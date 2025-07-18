@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Main Protease",
+    "description": "A protease is an enzyme that breaks down proteins into smaller peptides or amino acids through a process called proteolysis. They do this by cleaving the peptide bonds within proteins, a reaction where water is used to break the bonds.",
+    "details": "Function:\nProteases are essential enzymes that play a crucial role in various biological processes, including digestion, development, immunity, and cell death.\n\nMechanism:\nThey work by hydrolyzing (breaking down with water) the peptide bonds that link amino acids together in a protein.\n\nTypes:\nProteases can be classified based on the pH conditions they work best under (neutral, acidic, or alkaline) or the amino acid residues they cleave.\n\nExamples:\n- Pepsin: A major protease in the stomach, responsible for breaking down proteins in food.\n- Trypsin: A serine protease that cleaves proteins at specific amino acid residues, essential for protein identification and digestion.\n- HIV Protease: An enzyme crucial for HIV replication, which breaks down precursor proteins into smaller units that assemble into new viral particles.\n\nBiological Roles:\nProteases are involved in a wide range of processes, including:\n- Digestion: Breaking down food proteins into smaller peptides for absorption.\n- Cellular Processes: Regulating various cellular activities, including development, cell signaling, and cell death.\n- Immunity: Breaking down proteins involved in immune responses.\n\nApplications:\n- Industrial Applications: Used in baking to modify gluten, in detergents, and in the production of certain food ingredients.\n- Skincare: Used in some skincare products for exfoliation and improving skin texture.\n- Medical Applications: Protease inhibitors are used to treat HIV infection by blocking the enzyme that breaks down viral proteins.\n",
+    "links": ["https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/protease#:~:text=Protease%20is%20an%20enzyme%20that,wound%20healing%20and%20cell%20death"],
+    "PDBCodes": ["7AEG", "6Z2E", "5RGR", "5REA", "5RE5"]
+  },
+  {
+    "name": "Spike Proteins and Receptor Binding Domains",
+    "description": "Protein binding to receptors is a fundamental biological process where a protein, acting as a ligand or signal molecule, binds to a specific receptor protein, which in turn triggers a cellular response. This interaction is highly specific, meaning the ligand will bind to only a particular receptor protein.",
+    "details": "Receptor Proteins:\nThese are proteins that have a specific binding site for other molecules, called ligands.\n\nLigands:\nLigands can be proteins, small molecules, or even other biological entities.\n\nBinding Process:\nWhen a ligand binds to its receptor, it can cause a conformational change in the receptor, initiating a downstream signal cascade within the cell.\n\nExamples:\n- G protein-coupled receptors (GPCRs) are a well-known example where ligands bind and activate heterotrimeric G proteins, triggering cellular responses.\n\nImportance:\nProtein binding to receptors is essential for various biological processes, including cell signaling, drug action, and protein-protein interactions.\n",
+    "links": ["https://www.sciencedirect.com/topics/medicine-and-dentistry/receptor-protein#:~:text=Receptors%20are%20a%20special%20class,ligand%20will%20eventually%20diffuse%20away"],
+    "PDBCodes": ["6YBB", "6XE1", "6XC3", "6M17", "6LVN"]
+  },
+  {
+    "name": "Papain-like Proteases",
+    "description": "Papain-like cysteine peptidases are a diverse family of peptidases found in most known organisms. In eukaryotes, they are divided into multiple evolutionary groups, which can be clearly distinguished on the basis of the structural characteristics of the proenzymes. Most of them are endopeptidases; some, however, evolved into exopeptidases by obtaining additional structural elements that restrict the binding of substrate into the active site. In humans, papain-like peptidases, also called cysteine cathepsins, act both as non-specific hydrolases and as specific processing enzymes.",
+    "details": "They are involved in numerous physiological processes, such as antigen presentation, extracellular matrix remodeling, and hormone processing. Their activity is tightly regulated and dysregulation of one or more cysteine cathepsins can result in severe pathological conditions, such as cardiovascular diseases and cancer.\n\nOther organisms can utilize papain-like peptidases for different purposes and they are often part of host-pathogen interactions. Numerous parasites, such as Plasmodium and flukes, utilize papain-like peptidases for host invasion, whereas plants, in contrast, use these enzymes for host defense.\n\nThis review presents a state-of-the-art description of the structure and phylogeny of papain-like peptidases as well as an overview of their physiological and pathological functions in humans and in other organisms.\n",
+    "links": ["https://www.degruyterbrill.com/document/doi/10.1515/bmc-2012-0054/html", "https://www.nature.com/articles/s41467-021-21060-3"],
+    "PDBCodes": ["8TH1", "8CX9", "7UV5", "7RBS", "7RBR"]
+  },
+  {
+    "name": "PanDDA Analysis",
+    "description": "The PanDDA method automatically reveals clear electron density for the changed state—even from inaccurate maps—by subtracting a proportion of the confounding ‘ground state’; changed states are objectively identified from statistical analysis of density distributions. The method is completely general, implying new best practice for all changed-state studies, including the routine collection of multiple ground-state crystals. More generally, these results demonstrate: the incompleteness of atomic models; that single data sets contain insufficient information to model them fully; and that accuracy requires further map-deconvolution approaches.",
+    "details": "",
+    "links": ["https://www.nature.com/articles/ncomms15123"],
+    "PDBCodes": ["5SKY", "5RVM", "5RS8", "5S6X","5RMM"]
+  },
+  {
+    "name": "COVID MOONSHOT",
+    "description": "The COVID Moonshot is a collaborative open-science project started in March 2020 with the goal of developing an unpatented oral antiviral drug to treat SARS-CoV-2, the virus causing COVID-19. COVID Moonshot researchers are targeting the proteins needed to form functioning new viral proteins. They are particularly interested in proteases such as 3C-like protease (Mpro), a coronavirus nonstructural protein that mediates the breaking and replication of proteins.",
+    "details": "",
+    "links": ["https://postera.ai/moonshot/", "https://en.wikipedia.org/wiki/COVID_Moonshot"],
+    "PDBCodes": ["7GJI", "7GJA", "7GI5", "7GI0", "7GAY"]
+  }
+]

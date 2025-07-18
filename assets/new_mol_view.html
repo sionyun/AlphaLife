@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * { margin: 0; padding: 0; }
+        html, body { width: 100%; height: 100%; overflow: hidden; }
+        #container { width: 100%; height: 100%; position: absolute; }
+    </style>
+    <title>Model of ${widget.moleculeId}</title>
+</head>
+<body>
+<script type="text/javascript" src="https://unpkg.com/ngl@2.4.0/dist/ngl.umd.js"></script>
+
+<script>
+    console.log("what the hell !!!!!!!!!!!!!!!");
+
+    const moleculeUri = "https://files.rcsb.org/view/${widget.moleculeId}.${widget.format}";
+
+    var stage = new NGL.Stage("container");
+    stage.loadFile(moleculeUri).then(function (component) {
+      component.addRepresentation("cartoon");
+      component.autoView();
+    });
+
+    console.log("WOAHHHHHHHHHHHHHHHHH");
+    console.log("moleculeUri");
+</script>
+<div id="container"></div>
+</body>
+</html>
