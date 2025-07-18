@@ -80,9 +80,10 @@ Through this project, we explored the complexities of real-time 3D visualization
 ---
 
 Let me know if you'd like a Korean version, or if you want to include badges (build status, license, etc.) or screenshots/gifs of the app in use!
-
-![screenshot1](https://github.com/user-attachments/assets/658a8fd2-fb28-4679-bd6a-9e4f35c27fbf)
-![screenshot3](https://github.com/user-attachments/assets/cc6cabde-0c9f-4318-82f2-11951fe3ea2b)
-![screenshot2](https://github.com/user-attachments/assets/816856c0-536f-45c4-afd6-0ccd49023477)
+<p float="left">
+  <img src="assets/screenshot1.JPG" width="200">
+  <img src="assets/screenshot2.JPG" width="200">
+  <img src="assets/screenshot3.JPG" width="200">
+</p>
 
 
